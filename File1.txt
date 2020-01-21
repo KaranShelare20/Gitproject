@@ -2,8 +2,13 @@ Hello World!!!
 
 welcome to Git....
 
-Change For Feature - Login
+change for feature - login
 
-Change To Fix Bug1
+change for feature - logout
 
 change to from remote server by my teammate
+
+change to fix bug1
+
+change to fix bug2
+
