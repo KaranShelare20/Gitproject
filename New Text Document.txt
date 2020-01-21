@@ -1,0 +1,8 @@
+default branch master
+         checkout - take a look, switching between branches/tages
+undo -
+          checkout - safe undo unstaged/uncommited, work at file level as well
+          revert - safe undo, commited/changes, only commit level
+          reset - unsafe undo, commited, file level as well as commit level,
+
+git revert HEAD
