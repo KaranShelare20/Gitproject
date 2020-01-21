@@ -2,8 +2,9 @@ change request 1-
 
 for updating adding new item
 
-change file to partial impletention of billing
+change 1 -> the file to check push to remote server
+change 2 -> from team member on remote server
+change 3 -> at local master
 
-change the file to check push to remote server
-change from team member on remote server
-change - made by my teammate by server
+change 4 - made by my teammate by server
+
